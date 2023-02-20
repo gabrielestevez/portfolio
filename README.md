@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Antonio Estévez Cabello</h1>
-<h3 align="center">BI & Big Data Engineer | Data Science</h3>
+<h3 align="center">Computer Engineering | Universidad Europea de Madrid</h3>
 
 - 🔭 I’m currently working at **IBM** as Cloud Consultant Intern
 - 🌱 I’m currently learning **MLOps, AWS Certified Solutions Architect**
