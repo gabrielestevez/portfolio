@@ -2,11 +2,11 @@
 <h3 align="center">Computer Engineering | Universidad Europea de Madrid</h3>
 
 - 🔭 I’m currently working at **IBM** as Cloud Consultant Intern
-- 🌱 I’m currently learning **MLOps, AWS Certified Solutions Architect**
+- 🌱 I’m currently studying **Computer Engineering**
 
 - 👨‍💻 Some of my fun projects are available at [https://sukuzhanay.me/]
 
-- 💬 Ask me about **Python, AWS, GCP, GitHub, Git, Docker, Spark, Hadoop, SQL, Data Engineering, BigQuery, Ionic, **
+- 💬 Ask me about **Python, AWS, GitHub, Git, Docker, Spark, Hadoop, SQL, Cloud Computing, Java, JavaScript, React **
 
 - 📫 How to reach me **gabiestecab@gmail.com**
 
