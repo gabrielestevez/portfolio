@@ -4,7 +4,7 @@
 - 🔭 I’m currently working at **IBM** as Cloud Consultant Intern
 - 🌱 I’m currently studying **Computer Engineering**
 
-- 👨‍💻 Some of my fun projects are available at [https://sukuzhanay.me/]
+- 👨‍💻 My interests are IA, Machine Learning, Cibersecurity, Cloud Computing
 
 - 💬 Ask me about **Python, AWS, GitHub, Git, Docker, Spark, Hadoop, SQL, Cloud Computing, Java, JavaScript, React **
 
